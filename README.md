@@ -16,12 +16,15 @@ We seek to identify __Top performing customers, products, channels of sales , re
 ![customers_behaviour_ss](https://github.com/data-scholar-emma/Sales_Performance_Analysis_for_a_Telecom_Company_US/assets/162923747/c382c6c3-7329-4580-955f-364443225f7a)
 
 2. Sales performance by channel <br> <br>
+![sales_by_channel_ss](https://github.com/data-scholar-emma/Sales_Performance_Analysis_for_a_Telecom_Company_US/assets/162923747/973909a0-60f9-4355-b21c-9312db9ef55b)
 
 
 3. Sales performance by region <br> <br>
 
+![sales_by_region_ss](https://github.com/data-scholar-emma/Sales_Performance_Analysis_for_a_Telecom_Company_US/assets/162923747/73344f4f-ddb6-45c8-8115-7295fe8e07b3)
 
 4. Sales trends over the years <br> <br>
+![sales_trends_over_the_years](https://github.com/data-scholar-emma/Sales_Performance_Analysis_for_a_Telecom_Company_US/assets/162923747/081be411-0a58-406d-8416-b6cf2835f7a4)
 
 
 
