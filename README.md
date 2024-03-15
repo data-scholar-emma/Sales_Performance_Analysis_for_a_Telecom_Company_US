@@ -11,6 +11,21 @@ Various aspects of the company’s sales transaction data generated over the pas
 
 We seek to identify __Top performing customers, products, channels of sales , region , trends, and the overall performance__ of the company , to enable the company to make data-driven decisions/recommendations and to gain a deeper understanding of the company’s overall performance. 
 
+1. sales performance by customers <br> <br>
+
+![customers_behaviour_ss](https://github.com/data-scholar-emma/Sales_Performance_Analysis_for_a_Telecom_Company_US/assets/162923747/c382c6c3-7329-4580-955f-364443225f7a)
+
+2. Sales performance by channel <br> <br>
+
+
+3. Sales performance by region <br> <br>
+
+
+4. Sales trends over the years <br> <br>
+
+
+
+
 ## Data Sources: 
 __Sales Transaction Data :__ The primary dataset used for this data analysis project was sales transaction data, containing detailed information about each sales made by the company , and was extracted from the company’s database using __SQL codes.__ 
 
